@@ -40,7 +40,7 @@ It contains **year-wise structured links** to repositories covering:
 
 ## About Me
 
-<img align="right" src="assets/YashvardhanJani.png" alt="PDEU Logo" width="150" style="margin-right: 40px;"/>
+<img align="right" src="assets/YashvardhanJani.png" alt="PDEU Logo" width="150" hspace="50"/>
 
 **Yashvardhan Jani**  
 🎓 B.Tech CSE – Batch 2024-28 PDEU <br>

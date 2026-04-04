@@ -79,7 +79,12 @@ It contains **year-wise structured links** to repositories covering:
 
 #### 📘 Semester 4 :-
 
-Coming Soon...
+| Subject | Repository |
+|--------|-----------|
+| Design & Analysis of Algorithms | 🔗 [`View Repo`](https://github.com/YashvardhanJani/PDEU-DAA-Lab-Programs) |
+| Design Thinking - Project | 🔗 [`View Repo`](https://github.com/YashvardhanJani/PDEU-DesignThinking-SmartCommute) |
+| Software Engineering | 🔗 [`View Repo`](https://github.com/YashvardhanJani/PDEU-Software-Engineering-LabWork) |
+| Software Engineering - Project | 🔗 [`View Repo`](https://github.com/YashvardhanJani/Obitel_Hostel-Management-System) |
 
 ---
 

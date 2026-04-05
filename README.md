@@ -16,7 +16,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/YashvardhanJani/PDEU-CSE-Coursework?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/YashvardhanJani/PDEU-CSE-Coursework?style=flat)
-![GitHub issues](https://img.shields.io/github/issues/YashvardhanJani/PDEU-CSE-Courseworks?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/YashvardhanJani/PDEU-CSE-Coursework?style=flat)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/YashvardhanJani/PDEU-CSE-Coursework?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/YashvardhanJani/PDEU-CSE-Coursework?style=flat)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YashvardhanJani.PDEU-CSE-Coursework&left_color=grey&right_color=black&format=true)
